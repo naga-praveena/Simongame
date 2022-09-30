@@ -1,1 +1,1 @@
-# A game which is fun to play and test your memorizing ability build using html,css and javascript.
+# A game which is fun to play build using html,css and javascript.
